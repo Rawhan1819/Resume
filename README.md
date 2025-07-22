@@ -1,2 +1,2 @@
 # Resume
-An simple Resume developed using technologies like hypertext markup language &amp; Cascading Style Sheet
+A simple Resume developed using technologies like hypertext markup language & Cascading Style Sheet
